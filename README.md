@@ -8,6 +8,12 @@ Genev is a decentralized lending protocol forked from Morpho Blue, designed for 
 - **Oracle Integration**: Support for Orakl price feeds using adapters to be Chainlink-compliant
 - **Multi-Asset Support**: Native support for WKAIA and USDT on Kaia network
 
+## Contract Addresses on Kaia mainnet
+- Morpho (Genev main contract): 0x23afa4d51702a34fc217ed8e1a92f96a7fc5885b
+- MetaMorphoV1_1Factory: 0x30554d6e6765d3f2D45b0838a574395568ef3d64
+- Vault USDT: 0x26f976c42EA32117d70481C080a1D3522f5BC037
+- Vault WKAIA: 0x04DD508DdF8c082A6043e3A8705946CfeE734d61
+
 ## Architecture
 
 ### Core Components
