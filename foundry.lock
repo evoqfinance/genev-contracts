@@ -1,0 +1,20 @@
+{
+  "lib/solady": {
+    "tag": {
+      "name": "v0.1.26",
+      "rev": "acd959aa4bd04720d640bf4e6a5c71037510cc4b"
+    }
+  },
+  "lib/halmos-cheatcodes": {
+    "rev": "a02072cd5eb8560d00c3f4a73b27831ec6e3137e"
+  },
+  "lib/forge-std": {
+    "rev": "2f112697506eab12d433a65fdc31a639548fe365"
+  },
+  "lib/openzeppelin-contracts": {
+    "tag": {
+      "name": "v5.4.0",
+      "rev": "c64a1edb67b6e3f4a15cca8909c9482ad33a02b0"
+    }
+  }
+}
