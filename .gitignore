@@ -24,3 +24,5 @@ docs/
 /types
 /cache_hardhat
 /artifacts
+
+.DS_Store
